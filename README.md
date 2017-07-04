@@ -15,4 +15,3 @@ Branch: testing-2-3-how-tesing-can-reduce-bugs
 Video:
 Description: Red Green Refactor and the process of Test Driven Development
 Branch: testing-2-4-rgr-tdd
-

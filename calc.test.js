@@ -27,6 +27,9 @@ describe('sum', () => {
 
 describe('minus', () => {
   let minusResult;
+  // we have these global methods that let us run code
+  // before each test, after each test etc
+  // you can check out the docs for more of these here https://facebook.github.io/jest/docs/en/api.html#aftereachfn
   beforeEach(() => {
     minusResult = calc.minus(2,1);
   });

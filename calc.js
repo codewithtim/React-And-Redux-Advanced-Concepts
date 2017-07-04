@@ -1,5 +1,11 @@
-function sum(a, b) {
+calc = {};
+
+calc.sum = (a, b) => {
   return a + b;
 }
 
-module.exports = sum;
+calc.minus = (a, b) => {
+  return a - b;
+}
+
+module.exports = calc;

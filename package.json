@@ -1,0 +1,11 @@
+{
+  "name": "react-and-redux-advanced-concepts",
+  "version": "1.0.0",
+  "description": "A series of video tutorials on advacned reactjs and redux concepts",
+  "main": "calc.js",
+  "scripts": {
+    "test": "jest"    
+  },
+  "author": "CodeWithTim",
+  "license": "=20.0.4"
+}
